@@ -2,6 +2,7 @@
 - 👀 I’m interested in PHP, C#, Java, Python, HTML5, CSS3, SEO
 - 🌱 I’m currently learning PHP, Java, Python
 - 🔗 How to reach me https://t.me/b4dcat404
+- 🔗 My Telegram Chanel https://t.me/b4dcat_404
 - 🔨 Make Minecraft project "Evpa Mine"
 <!--- - 💞️ I’m looking to collaborate on ... --->
 <!---
